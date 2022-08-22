@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "953522256551",
+    "project_id": "foodbany",
+    "storage_bucket": "foodbany.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953522256551:android:bec036221ca702f4c2b982",
+        "android_client_info": {
+          "package_name": "com.example.foodbany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953522256551-0rsqihrbga03nnipjujgtakieh1qkoa4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodbany",
+            "certificate_hash": "570e2ea6a8b2b8fd5765f9e0ab69390732bca7fa"
+          }
+        },
+        {
+          "client_id": "953522256551-gvvr9f79b7od0gb2e9b6cfofmapo4kre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzJRPAMwGdnJLRoO9EJrpX4zcE8GKwmug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953522256551-gvvr9f79b7od0gb2e9b6cfofmapo4kre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_client_token">1f81b46d6b5454517a11e9e566860ef9</string>
+    <string name="facebook_app_id">460805975906628</string>
+    <string name="fb_login_protocol_scheme">fb460805975906628</string>
+    <string name="app_name">BMBTG</string>
+
+</resources>
